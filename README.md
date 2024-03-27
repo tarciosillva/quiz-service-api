@@ -45,6 +45,5 @@ Para conferir os registros feitos pela API, acesse o seguinte endereço com esta
 em seguinda execute as rotas disponíveis para teste dos endpoints da API
 
 ```bash
-# swagger localhost
 $ http://localhost:8080/api
 ```
